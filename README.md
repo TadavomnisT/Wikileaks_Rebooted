@@ -1,4 +1,4 @@
-# WikileaksRebooted
+# Wikileaks Rebooted
 
 ![wikileaks_rebooted](https://raw.githubusercontent.com/TadavomnisT/Wikileaks_Rebooted/main/Documentation/Images/wikileaks_rebooted.png)
 
